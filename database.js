@@ -36,6 +36,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN();
+    exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN();
 });
 
