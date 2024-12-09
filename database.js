@@ -4,6 +4,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const formularioDadosPXN = document.getElementById('formularioDadosPXN');
     const listaDadosPXN = document.getElementById('listaDadosPXN');
 
+    exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN();  
+    
     formularioDadosPXN.addEventListener('submit', function(event) {
         event.preventDefault();
         
@@ -36,5 +38,4 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN(); exibirDadosPXN();  exibirDadosPXN(); 
 
